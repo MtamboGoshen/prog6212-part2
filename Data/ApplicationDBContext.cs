@@ -1,16 +1,14 @@
-﻿using Microsoft.EntityFrameworkCore;
-using ContractMonthlyClaim.Models; // Required for Claim
+﻿// FILE: Data/ApplicationDBContext.cs
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using ContractMonthlyClaim.Models;
 
 namespace ContractMonthlyClaim.Data
 {
-    public class ApplicationDBContext : DbContext
+    public class ApplicationDBContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options) : base(options) { }
+
         public DbSet<Claim> Claims { get; set; }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Claim>().HasKey(x => x.Id);
-            base.OnModelCreating(modelBuilder);
-        }
     }
 }

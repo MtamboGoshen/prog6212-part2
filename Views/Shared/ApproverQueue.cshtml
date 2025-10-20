@@ -1,0 +1,57 @@
+﻿@model List<ContractMonthlyClaim.Models.Claim>
+@{
+    ViewData["Title"] = "Approver Queue";
+}
+
+<h2>Approver Queue - Pending Claims</h2>
+
+@if (!Model.Any())
+{
+    <p>There are no pending claims to approve.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Lecturer</th>
+                <th>Amount</th>
+                <th>Notes</th>
+                <th>Document</th>
+                <th style="width: 200px;">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var claim in Model)
+            {
+                <tr>
+                    <td>@claim.LecturerName</td>
+                    <td>@claim.Amount.ToString("C")</td>
+                    <td>@claim.Notes</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(claim.Filename))
+                        {
+                            <a href="/uploads/@claim.Filename" target="_blank">View Document</a>
+                        }
+                        else
+                        {
+                            <span>No Document</span>
+                        }
+                    </td>
+                    <td>
+                        <div class="d-flex">
+                            <form asp-action="ApproveClaim" method="post" class="me-2">
+                                <input type="hidden" name="claimId" value="@claim.Id" />
+                                <button type="submit" class="btn btn-success btn-sm">Approve</button>
+                            </form>
+                            <form asp-action="RejectClaim" method="post">
+                                <input type="hidden" name="claimId" value="@claim.Id" />
+                                <button type="submit" class="btn btn-danger btn-sm">Reject</button>
+                            </form>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

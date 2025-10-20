@@ -1,0 +1,40 @@
+﻿@model ContractMonthlyClaim.Models.Claim
+@{
+    ViewData["Title"] = "Submit Claim";
+}
+
+<h2>Submit New Claim</h2>
+
+<form asp-action="SubmitClaim" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="LecturerName" class="form-label"></label>
+        <input asp-for="LecturerName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Programme" class="form-label"></label>
+        <input asp-for="Programme" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Month" class="form-label"></label>
+        <input asp-for="Month" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="HoursWorked" class="form-label"></label>
+        <input asp-for="HoursWorked" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="HourlyRate" class="form-label"></label>
+        <input asp-for="HourlyRate" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Notes" class="form-label"></label>
+        <textarea asp-for="Notes" class="form-control" rows="3"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label for="document" class="form-label">Supporting Document (PDF, DOCX, XLSX)</label>
+        <input type="file" name="document" class="form-control" accept=".pdf,.docx,.xlsx" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit Claim</button>
+</form>

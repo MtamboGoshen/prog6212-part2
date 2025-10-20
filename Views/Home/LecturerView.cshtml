@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ContractMonthlyClaim.Models.Claim>
+@{
+    ViewData["Title"] = "Lecturer View";
+}
+
+<div class="container mt-4">
+    <h2>Lecturer Claims</h2>
+
+    <a asp-action="Submit" class="btn btn-primary mb-3">Submit New Claim</a>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Month</th>
+                    <th>Programme</th>
+                    <th>Amount</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var claim in Model)
+                {
+                    <tr>
+                        <td>@claim.Month</td>
+                        <td>@claim.Programme</td>
+                        <td>@claim.Amount</td>
+                        <td>@claim.Status</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p class="text-muted">No claims found.</p>
+    }
+</div>

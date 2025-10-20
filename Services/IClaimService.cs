@@ -1,4 +1,5 @@
-﻿using ContractMonthlyClaim.Models;
+﻿// FILE: Services/IClaimService.cs
+using ContractMonthlyClaim.Models;
 
 namespace ContractMonthlyClaim.Services
 {
@@ -7,5 +8,11 @@ namespace ContractMonthlyClaim.Services
         Task<List<Claim>> GetClaims();
         Task<int> AddClaim(Claim claim);
         Task<bool> DeleteClaim(int claimId);
+
+        // --- NEW METHODS ---
+        Task<List<Claim>> GetPendingClaims();
+        Task<Claim?> GetClaimById(int claimId);
+        Task<bool> UpdateClaimStatus(int claimId, string newStatus);
+        Task<bool> UpdateClaim(Claim updatedClaim);
     }
 }

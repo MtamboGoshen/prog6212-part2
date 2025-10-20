@@ -1,177 +1,456 @@
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\appsettings.json
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.staticwebassets.runtime.json
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.staticwebassets.endpoints.json
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.exe
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.deps.json
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.runtimeconfig.json
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.pdb
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.AssemblyInfoInputs.cache
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.AssemblyInfo.cs
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.csproj.CoreCompileInputs.cache
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.RazorAssemblyInfo.cache
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.RazorAssemblyInfo.cs
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\scopedcss\bundle\ContractMonthlyClaim.styles.css
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\scopedcss\projectbundle\ContractMonthlyClaim.bundle.scp.css
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\y53d7stwrm-b9sayid5wm.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\q5752btx8l-61n19gt1b8.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\lf7zeq6uzd-xtxxf3hu2r.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\lbhq71wjya-bqjiyaj88i.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\hcrj7jc6vw-c2jlpeoesf.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\m94zouxi4j-erw9l3u2r3.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\z95ar3busp-aexeepp0ev.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\psvlpsabqt-d7shbmvgxk.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\nqpevqq3n9-ausgxo2sd3.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\6wx80oid9c-k8d9w2qqmf.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\i4zfk3e9h2-cosvhxvwiu.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\jgw0zv5te5-ub07r2b239.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\e4i8zl5kxy-fvhpjtyr6v.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\q33rsdf40z-b7pk76d08c.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\dzh0wjdv6b-fsbi9cje9m.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\wirv4d1id5-rzd6atqjts.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\vvpxazu7ig-ee0r1s7dh0.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\8i2rsjobqc-dxx9fxp4il.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\opozk07bp3-jd9uben2k1.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\zldf1aywge-khv3u5hwcm.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\4f3lmz675g-r4e9w2rdcm.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\fc8fwt95wq-lcd1t2u6c8.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\8mtcchr458-c2oey78nd0.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\6jtrefrrq4-tdbxkamptv.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\m8mif4hafd-j5mq2jizvt.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\9up2wvixbm-06098lyss8.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\b9kgh1incu-nvvlpmu67g.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\ngtzfio6p0-s35ty4nyc5.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\4udpe0nuxb-pj5nd1wqec.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\jztz1xeqh3-46ein0sx1k.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\vulkpknq76-v0zj4ognzu.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\qhd7tyljvn-37tfw0ft22.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\al53rwzymt-hrwsygsryq.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\v6v3e0ail9-pk9g2wxc8p.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\i0aly07xdh-ft3s53vfgj.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\1as06ur84g-6cfz1n2cew.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\yj198m78uz-6pdc2jztkx.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\f0qxvo312y-493y06b0oq.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\q1l9dj75k3-iovd86k7lj.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\reegjhagzr-vr1egmr9el.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\e0a88a14cd-kbrnm935zg.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\ysvpghi2p0-jj8uyg4cgr.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\bjfztbof5u-y7v9cxd14o.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\y0aju8f1m0-notf2xhcfb.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\1qjo76kmyu-h1s4sie4z3.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\vkkrocp4ws-63fj8s7r0e.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\x8ulnc2kf7-0j3bgjxly4.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\p7dpd8ljr3-47otxtyo56.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\fjknabvhlz-4v8eqarkd7.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\us02iw80yo-356vix0kms.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\2swao4zqj2-83jwlth58m.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\dncoytuei7-mrlpezrjn3.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\s05jemaa8o-lzl9nlhx6b.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\zs21ptysmu-ag7o75518u.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\yb84b0mz28-x0q3zqp4vz.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\6fe2duq9h9-0i3buxo5is.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\sci8q2js7l-o1o13a6vjx.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\5o45hayelo-ttgo8qnofa.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\acl1yfng5x-2z0ns9nrw6.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\po3i1nvz6x-muycvpuwrr.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\2ykxfbx528-87fc7y1x7t.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\aktb73avpk-mlv21k5csn.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\8p5cyahs4h-y8m98zqn6s.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\compressed\bfs28sd1gw-y8m98zqn6s.gz
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets.development.json
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets\msbuild.ContractMonthlyClaim.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets\msbuild.ContractMonthlyClaim.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets\msbuild.build.ContractMonthlyClaim.props
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ContractMonthlyClaim.props
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ContractMonthlyClaim.props
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\refint\ContractMonthlyClaim.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.pdb
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.genruntimeconfig.cache
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ref\ContractMonthlyClaim.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.csproj.AssemblyReference.cache
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Azure.Core.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Azure.Identity.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Identity.Client.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\System.ClientModel.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\System.Drawing.Common.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\System.Formats.Asn1.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\System.Memory.Data.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\System.Runtime.Caching.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\System.Security.Permissions.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\System.Text.Json.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\System.Windows.Extensions.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\obj\Debug\net9.0\Contract.605A9802.Up2Date
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\SQLitePCLRaw.core.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\lab_services_student\source\repos\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.sourcelink.json
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ContractMonthlyClaim.Tests\obj\ContractMonthlyClaim.Tests.csproj.nuget.dgspec.json
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ContractMonthlyClaim.Tests\obj\project.assets.json
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ContractMonthlyClaim.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ContractMonthlyClaim.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ContractMonthlyClaim.exe
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ContractMonthlyClaim.deps.json
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ContractMonthlyClaim.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ContractMonthlyClaim.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ContractMonthlyClaim.pdb
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\lab_services_student\Desktop\New folder\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\scopedcss\bundle\ContractMonthlyClaim.styles.css
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\scopedcss\projectbundle\ContractMonthlyClaim.bundle.scp.css
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\y53d7stwrm-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\q5752btx8l-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\lf7zeq6uzd-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\lbhq71wjya-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\hcrj7jc6vw-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\m94zouxi4j-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\z95ar3busp-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\psvlpsabqt-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\nqpevqq3n9-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\6wx80oid9c-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\i4zfk3e9h2-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\jgw0zv5te5-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\e4i8zl5kxy-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\q33rsdf40z-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\dzh0wjdv6b-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\wirv4d1id5-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\vvpxazu7ig-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\8i2rsjobqc-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\opozk07bp3-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\zldf1aywge-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\4f3lmz675g-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\fc8fwt95wq-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\8mtcchr458-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\6jtrefrrq4-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\m8mif4hafd-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\9up2wvixbm-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\b9kgh1incu-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\ngtzfio6p0-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\4udpe0nuxb-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\jztz1xeqh3-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\vulkpknq76-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\qhd7tyljvn-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\al53rwzymt-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\v6v3e0ail9-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\i0aly07xdh-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\1as06ur84g-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\yj198m78uz-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\f0qxvo312y-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\q1l9dj75k3-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\reegjhagzr-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\e0a88a14cd-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\ysvpghi2p0-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\bjfztbof5u-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\y0aju8f1m0-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\1qjo76kmyu-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\vkkrocp4ws-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\x8ulnc2kf7-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\p7dpd8ljr3-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\fjknabvhlz-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\us02iw80yo-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\2swao4zqj2-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\dncoytuei7-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\s05jemaa8o-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\zs21ptysmu-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\yb84b0mz28-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\6fe2duq9h9-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\sci8q2js7l-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\5o45hayelo-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\acl1yfng5x-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\po3i1nvz6x-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\2ykxfbx528-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\aktb73avpk-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\8p5cyahs4h-y8m98zqn6s.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\compressed\bfs28sd1gw-y8m98zqn6s.gz
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\Contract.605A9802.Up2Date
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.dll
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\refint\ContractMonthlyClaim.dll
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.pdb
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ContractMonthlyClaim.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\New folder\obj\Debug\net9.0\ref\ContractMonthlyClaim.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.exe
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.deps.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ContractMonthlyClaim.pdb
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.sourcelink.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\scopedcss\bundle\ContractMonthlyClaim.styles.css
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\scopedcss\projectbundle\ContractMonthlyClaim.bundle.scp.css
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\y53d7stwrm-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\q5752btx8l-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\lf7zeq6uzd-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\lbhq71wjya-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\hcrj7jc6vw-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\m94zouxi4j-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\z95ar3busp-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\psvlpsabqt-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\nqpevqq3n9-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\6wx80oid9c-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\i4zfk3e9h2-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\jgw0zv5te5-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\e4i8zl5kxy-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\q33rsdf40z-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\dzh0wjdv6b-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\wirv4d1id5-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\vvpxazu7ig-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\8i2rsjobqc-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\opozk07bp3-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\zldf1aywge-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\4f3lmz675g-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\fc8fwt95wq-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\8mtcchr458-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\6jtrefrrq4-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\m8mif4hafd-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\9up2wvixbm-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\b9kgh1incu-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\ngtzfio6p0-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\4udpe0nuxb-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\jztz1xeqh3-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\vulkpknq76-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\qhd7tyljvn-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\al53rwzymt-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\v6v3e0ail9-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\i0aly07xdh-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\1as06ur84g-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\yj198m78uz-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\f0qxvo312y-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\q1l9dj75k3-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\reegjhagzr-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\e0a88a14cd-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\ysvpghi2p0-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\bjfztbof5u-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\y0aju8f1m0-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\1qjo76kmyu-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\vkkrocp4ws-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\x8ulnc2kf7-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\p7dpd8ljr3-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\fjknabvhlz-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\us02iw80yo-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\2swao4zqj2-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\dncoytuei7-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\s05jemaa8o-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\zs21ptysmu-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\yb84b0mz28-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\6fe2duq9h9-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\sci8q2js7l-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\5o45hayelo-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\acl1yfng5x-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\po3i1nvz6x-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\2ykxfbx528-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\aktb73avpk-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\8p5cyahs4h-y8m98zqn6s.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\compressed\bfs28sd1gw-y8m98zqn6s.gz
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\Contract.605A9802.Up2Date
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\refint\ContractMonthlyClaim.dll
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.pdb
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ContractMonthlyClaim.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\obj\Debug\net9.0\ref\ContractMonthlyClaim.dll

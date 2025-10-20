@@ -1,0 +1,68 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<div class="row justify-content-center mt-4">
+    <div class="col-12 col-md-6 col-lg-5">
+        <div class="card shadow-lg border-0 rounded-4">
+            <div class="card-body p-4 p-md-5">
+
+                <div class="text-center mb-4">
+                    <h3 class="fw-bold mb-1">Claim System</h3>
+                    <p class="text-muted mb-0">Please sign in to continue</p>
+                </div>
+
+                <form asp-controller="Account" asp-action="Login" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="mb-3">
+                        <label asp-for="UserNameOrEmail" class="form-label fw-semibold"></label>
+                        <div class="input-group">
+                            <span class="input-group-text bg-white text-muted">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16"><path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6" /></svg>
+                            </span>
+                            <input asp-for="UserNameOrEmail" class="form-control" placeholder="Enter your username or email" />
+                        </div>
+                        <span asp-validation-for="UserNameOrEmail" class="text-danger small"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Password" class="form-label fw-semibold"></label>
+                        <div class="input-group">
+                            <span class="input-group-text bg-white text-muted">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lock-fill" viewBox="0 0 16 16"><path d="M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2m3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2" /></svg>
+                            </span>
+                            <input asp-for="Password" type="password" class="form-control" placeholder="Enter your password" />
+                        </div>
+                        <span asp-validation-for="Password" class="text-danger small"></span>
+                    </div>
+
+                    <div class="form-check mb-3">
+                        <input asp-for="RememberMe" class="form-check-input" />
+                        <label asp-for="RememberMe" class="form-check-label text-muted"></label>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100 py-2 fw-semibold">
+                        Sign In
+                    </button>
+                </form>
+
+                <environment include="Development">
+                    <div class="mt-4 text-center">
+                        <hr>
+                        <p class="text-muted fw-bold">Test Accounts (Dev Only)</p>
+                        <small class="text-muted d-block">Manager: <code>manager@test.com</code> / <code>Password123</code></small>
+                        <small class="text-muted d-block">Coordinator: <code>coordinator@test.com</code> / <code>Password123</code></small>
+                        <small class="text-muted d-block">Lecturer: <code>lecturer@test.com</code> / <code>Password123</code></small>
+                    </div>
+                </environment>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

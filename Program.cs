@@ -1,52 +1,70 @@
+// FILE: Program.cs
 using ContractMonthlyClaim.Data;
+using ContractMonthlyClaim.Models;
 using ContractMonthlyClaim.Services;
 using ContractMonthlyClaimPrototype.Data;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-namespace ContractMonthlyClaim
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<ApplicationDBContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("DBConnection"))
+);
+
+builder.Services.AddScoped<IClaimService, ClaimService>();
+
+// --- Add Identity Services ---
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
 {
-    public class Program
-    {
-        public static async Task Main(string[] args)
-        {
-            var builder = WebApplication.CreateBuilder(args);
+    options.Password.RequiredLength = 8;
+    options.Password.RequireNonAlphanumeric = false;
+    options.Password.RequireDigit = true;
+    options.Password.RequireUppercase = false;
+    options.Password.RequireLowercase = true;
+    options.User.RequireUniqueEmail = true;
+})
+.AddEntityFrameworkStores<ApplicationDBContext>()
+.AddDefaultTokenProviders();
 
-            // Add services to the container.
-            builder.Services.AddControllersWithViews();
+// --- Configure Login Path ---
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = "/Account/Login";
+    options.AccessDeniedPath = "/Account/AccessDenied";
+});
 
-            builder.Services.AddDbContext<ApplicationDBContext>(options =>
-                options.UseSqlite(builder.Configuration.GetConnectionString("DBConnection"))
-            );
+var app = builder.Build();
 
-            builder.Services.AddScoped<IClaimService, ClaimService>();
-
-            var app = builder.Build();
-
-            // Apply seeding
-            using (var scope = app.Services.CreateScope())
-            {
-                var db = scope.ServiceProvider.GetRequiredService<ApplicationDBContext>();
-                await SeedData.SeedAsyc(db);
-            }
-
-            // Configure the HTTP request pipeline.
-            if (!app.Environment.IsDevelopment())
-            {
-                app.UseExceptionHandler("/Home/Error");
-                app.UseHsts();
-            }
-
-            app.UseHttpsRedirection();
-            app.UseStaticFiles();
-            app.UseRouting();
-            app.UseAuthorization();
-
-            app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
-
-            app.Run();
-        }
-    }
+// --- THIS IS THE SINGLE, CORRECT SEEDING SECTION ---
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<ApplicationDBContext>();
+    db.Database.Migrate();
+    await SeedData.SeedAsyc(db);
+    await IdentitySeed.SeedAsync(scope.ServiceProvider);
 }
 
+// Configure the HTTP request pipeline.
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    app.UseHsts();
+}
+
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+app.UseRouting();
+
+// --- Add Authentication Middleware ---
+app.UseAuthentication();
+app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.Run();

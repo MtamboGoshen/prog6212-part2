@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaim\\ContractMonthlyClaim.csproj": {}
+    "C:\\Users\\lab_services_student\\Desktop\\New folder\\ContractMonthlyClaim\\ContractMonthlyClaim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaim\\ContractMonthlyClaim.csproj": {
+    "C:\\Users\\lab_services_student\\Desktop\\New folder\\ContractMonthlyClaim\\ContractMonthlyClaim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaim\\ContractMonthlyClaim.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\New folder\\ContractMonthlyClaim\\ContractMonthlyClaim.csproj",
         "projectName": "ContractMonthlyClaim",
-        "projectPath": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaim\\ContractMonthlyClaim.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\New folder\\ContractMonthlyClaim\\ContractMonthlyClaim.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaim\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\New folder\\ContractMonthlyClaim\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,23 +44,25 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             }
           },
           "imports": [
@@ -82,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
