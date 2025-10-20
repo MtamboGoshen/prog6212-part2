@@ -14,61 +14,69 @@
         }
     </div>
 
-    <table class="table table-bordered table-striped align-middle">
-        <thead class="table-dark">
-            <tr>
-                <th>Lecturer Name</th>
-                <th>Programme</th>
-                <th>Amount</th>
-                <th>Status</th>
-                <th>Actions</th> @* <-- This header is now always visible *@
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model)
-            {
+    @if (Model.Any())
+    {
+        <table class="table table-bordered table-striped align-middle">
+            <thead class="table-dark">
                 <tr>
-                    <td>@item.LecturerName</td>
-                    <td>@item.Programme</td>
-                    <td>@item.Amount.ToString("C")</td>
-                    <td>
-                        @if (item.Status == "Approved")
-                        {
-                            <div class="progress">
-                                <div class="progress-bar bg-success" style="width: 100%">Approved</div>
-                            </div>
-                        }
-                        else if (item.Status == "Rejected")
-                        {
-                            <div class="progress">
-                                <div class="progress-bar bg-danger" style="width: 100%">Rejected</div>
-                            </div>
-                        }
-                        else
-                        {
-                            <div class="progress">
-                                <div class="progress-bar bg-primary" style="width: 50%">Pending</div>
-                            </div>
-                        }
-                    </td>
-
-                    <td class="text-center">
-                        <div class="btn-group" role="group">
-                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Details</a>
-
-                            @if (User.IsInRole("Manager") || User.IsInRole("Programme Coordinator"))
-                            {
-                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
-
-                                <form asp-action="DeleteClaim" method="post" onsubmit="return confirm('Are you sure you want to delete this claim?');" style="display:inline;">
-                                    <input type="hidden" name="claimId" value="@item.Id" />
-                                    <button type="submit" class="btn btn-sm btn-danger">Delete</button>
-                                </form>
-                            }
-                        </div>
-                    </td>
+                    <th>Lecturer Name</th>
+                    <th>Programme</th>
+                    <th>Amount</th>
+                    <th>Status</th>
+                    <th>Actions</th>
                 </tr>
-            }
-        </tbody>
-    </table>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.LecturerName</td>
+                        <td>@item.Programme</td>
+                        <td>@item.Amount.ToString("C")</td>
+                        <td>
+                            @if (item.Status == "Approved")
+                            {
+                                <div class="progress">
+                                    <div class="progress-bar bg-success" style="width: 100%">Approved</div>
+                                </div>
+                            }
+                            else if (item.Status == "Rejected")
+                            {
+                                <div class="progress">
+                                    <div class="progress-bar bg-danger" style="width: 100%">Rejected</div>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="progress">
+                                    <div class="progress-bar bg-primary" style="width: 50%">Pending</div>
+                                </div>
+                            }
+                        </td>
+                        <td class="text-center">
+                            <div class="btn-group" role="group">
+                                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Details</a>
+
+                                @if (User.IsInRole("Manager") || User.IsInRole("Programme Coordinator"))
+                                {
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+
+                                    <form asp-action="DeleteClaim" method="post" onsubmit="return confirm('Are you sure you want to delete this claim?');" style="display:inline;">
+                                        <input type="hidden" name="claimId" value="@item.Id" />
+                                        <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                                    </form>
+                                }
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="text-center p-4 border rounded-3 bg-light">
+            <p class="mb-0">No claims have been submitted yet.</p>
+        </div>
+    }
 </div>

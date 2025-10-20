@@ -35,7 +35,7 @@ else
                     <td>
                         @if (!string.IsNullOrEmpty(claim.Filename))
                         {
-                            <a href="/uploads/@claim.Filename" target="_blank">View Document</a>
+                            <a asp-action="ViewDocument" asp-route-filename="@claim.Filename" target="_blank" class="btn btn-sm btn-outline-primary">View Document</a>
                         }
                         else
                         {

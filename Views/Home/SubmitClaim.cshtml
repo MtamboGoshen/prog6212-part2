@@ -1,40 +1,64 @@
-﻿@model ContractMonthlyClaim.Models.Claim
+﻿@model SubmitClaimViewModel
 @{
-    ViewData["Title"] = "Submit Claim";
+    ViewData["Title"] = "Submit New Claim";
 }
 
 <h2>Submit New Claim</h2>
+<hr />
 
-<form asp-action="SubmitClaim" method="post" enctype="multipart/form-data">
-    <div class="mb-3">
-        <label asp-for="LecturerName" class="form-label"></label>
-        <input asp-for="LecturerName" class="form-control" />
-    </div>
-    <div class="mb-3">
-        <label asp-for="Programme" class="form-label"></label>
-        <input asp-for="Programme" class="form-control" />
-    </div>
-    <div class="mb-3">
-        <label asp-for="Month" class="form-label"></label>
-        <input asp-for="Month" class="form-control" />
-    </div>
-    <div class="mb-3">
-        <label asp-for="HoursWorked" class="form-label"></label>
-        <input asp-for="HoursWorked" class="form-control" />
-    </div>
-    <div class="mb-3">
-        <label asp-for="HourlyRate" class="form-label"></label>
-        <input asp-for="HourlyRate" class="form-control" />
-    </div>
-    <div class="mb-3">
-        <label asp-for="Notes" class="form-label"></label>
-        <textarea asp-for="Notes" class="form-control" rows="3"></textarea>
-    </div>
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="SubmitClaim" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
-    <div class="mb-3">
-        <label for="document" class="form-label">Supporting Document (PDF, DOCX, XLSX)</label>
-        <input type="file" name="document" class="form-control" accept=".pdf,.docx,.xlsx" />
-    </div>
+            <div class="mb-3">
+                <label asp-for="LecturerName" class="form-label"></label>
+                <input asp-for="LecturerName" class="form-control" />
+                <span asp-validation-for="LecturerName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Programme" class="form-label"></label>
+                <input asp-for="Programme" class="form-control" />
+                <span asp-validation-for="Programme" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Month" class="form-label"></label>
+                <input asp-for="Month" class="form-control" placeholder="e.g., 2025-10" />
+                <span asp-validation-for="Month" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="HoursWorked" class="form-label"></label>
+                <input asp-for="HoursWorked" class="form-control" />
+                <span asp-validation-for="HoursWorked" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="HourlyRate" class="form-label"></label>
+                <input asp-for="HourlyRate" class="form-control" />
+                <span asp-validation-for="HourlyRate" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Notes" class="form-label"></label>
+                <textarea asp-for="Notes" class="form-control" rows="3"></textarea>
+                <span asp-validation-for="Notes" class="text-danger"></span>
+            </div>
 
-    <button type="submit" class="btn btn-primary">Submit Claim</button>
-</form>
+            <div class="mb-3">
+                <label asp-for="Document" class="form-label">Supporting Document (PDF, DOCX, XLSX only, max 5MB)</label>
+                <input asp-for="Document" class="form-control" accept=".pdf,.docx,.xlsx" />
+
+                <span asp-validation-for="Document" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-4">
+                <input type="submit" value="Submit Claim" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

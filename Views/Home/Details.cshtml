@@ -27,7 +27,7 @@
         <dd class="col-sm-9">
             @if (!string.IsNullOrEmpty(Model.Filename))
             {
-                <a href="/uploads/@Model.Filename" target="_blank">View Document</a>
+                <a asp-action="ViewDocument" asp-route-filename="@Model.Filename" target="_blank">View Document</a>
             }
             else
             {

@@ -16,6 +16,7 @@ builder.Services.AddDbContext<ApplicationDBContext>(options =>
 );
 
 builder.Services.AddScoped<IClaimService, ClaimService>();
+builder.Services.AddScoped<IEncryptionService, EncryptionService>();
 
 // --- Add Identity Services ---
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>

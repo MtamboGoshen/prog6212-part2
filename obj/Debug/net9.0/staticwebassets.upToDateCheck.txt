@@ -61,11 +61,6 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\uploads\29baee98-ee02-4c91-becb-405e07bb52c9_ST10460792 CLDV6212 POE part2.pdf
-wwwroot\uploads\3199795f-a4ca-4c1f-baa3-1cc42cfb9d1f_BCAD 2 Group 3 V1.pdf
-wwwroot\uploads\3e5b5192-882a-4d5f-8fba-2c5d603c884d_BCAD 2 Group 3 V1.pdf
-wwwroot\uploads\806cb4d9-4c60-4806-b434-c992bdf1cc70_GOSHENMTAMBO.pdf
-wwwroot\uploads\a480ea5d-b464-4d99-873c-ae0000cdc065_ST10460792_INSY7213_A2.pdf
 C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\wwwroot\css\site.css
 C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\wwwroot\favicon.ico
 C:\Users\lab_services_student\Desktop\New folder\ContractMonthlyClaim\wwwroot\js\site.js
