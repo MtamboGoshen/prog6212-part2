@@ -23,7 +23,7 @@ namespace ContractMonthlyClaim.Models
 
         public string Notes { get; set; } = string.Empty;
 
-        // This property will handle the file upload
+        // This property will handle the file upload via the form
         public IFormFile? Document { get; set; }
     }
 }
