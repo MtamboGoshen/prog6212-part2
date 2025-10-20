@@ -1,4 +1,4 @@
-﻿// FILE: Services/ClaimService.cs
+﻿// Returns only claims with a "Pending" status for the approver queue.
 using ContractMonthlyClaim.Data;
 using ContractMonthlyClaim.Models;
 using Microsoft.EntityFrameworkCore;
